@@ -129,8 +129,8 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/groups/reversim"
-    - label: "Join our email Google Group"
-      icon: "fab fa-fw fa-envelope-square"
+    - label: "Join out Google Group"
+      icon: "fas fa-fw fa-envelope-square"
       url: https://groups.google.com/g/reversim-summit
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
@@ -156,7 +156,7 @@ footer:
       icon: "fab fa-fw fa-facebook-square"
       url: https://www.facebook.com/groups/reversim
     - label: "Google Groups"
-      icon: "fab fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope-square"
       url: https://groups.google.com/g/reversim-summit
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
