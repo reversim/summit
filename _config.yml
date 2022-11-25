@@ -30,8 +30,8 @@ title                    : "Reversim Summit"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Reversim Team"
-description              : "An amazing website."
-url                      : "https://reversim.github.io/summit/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Reversim Summit website"
+url                      : "https://summmit.reversim.com/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "reversim/summit"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -120,8 +120,8 @@ author:
   # location         : "The internets"
   email            : team@reversim.com
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    - label: "Podcast"
+      icon: "fas fa-fw fa-headphones"
       url: "https://www.reversim.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
