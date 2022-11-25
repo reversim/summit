@@ -1,11 +1,11 @@
 ---
-title: Reversim Summit
+title: Reversim Summit 2022
 permalink: /
-layout: splash
+# layout: splash
 classes: wide
-
+author_profile: true
 ---
-# Reversim Summit 2022
+<!-- # Reversim Summit 2022 -->
 
 * [Website](https://summit2022.reversim.com/)
 * [Photos](https://photos.app.goo.gl/a9cSNdsVigteHzuj9)
@@ -75,3 +75,5 @@ classes: wide
 <!-- * [Photos]() -->
 
 <iframe width="300" height="200" src="https://www.youtube.com/embed/videoseries?list=PLp33GadmS4eWYy52JKAvuaiovQA9i_qzU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+ok

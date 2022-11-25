@@ -22,7 +22,7 @@ plugins:
 
 # theme                    : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -91,7 +91,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : reversim
 facebook:
   username               :
   app_id                 :
@@ -100,8 +100,8 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : Organization # Person or Organization (defaults to Person)
+  name                   : Reversim Platforma# If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
 # Analytics
@@ -116,28 +116,35 @@ analytics:
 author:
   name             : "Reversim Team"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "We host the Reversim Summit"
-  location         : "The internets"
-  email            :
+  bio              : "We host Reversim Summit"
+  # location         : "The internets"
+  email            : team@reversim.com
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:team@reversim.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://www.reversim.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/reversim"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/groups/reversim"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+    - label: "Join our email Google Group"
+      icon: "fab fa-fw fa-envelope-square"
+      url: https://groups.google.com/g/reversim-summit
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: https://www.instagram.com/reversimplatforma/
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "mailto:team@reversim.com"
+
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   # url: "https://github.com/"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   # url: "https://instagram.com/"
 
 # Site Footer
 footer:
@@ -151,12 +158,12 @@ footer:
     - label: "Google Groups"
       icon: "fab fa-fw fa-envelope-square"
       url: https://groups.google.com/g/reversim-summit
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   # url:
+    # - label: "GitLab"
+    #   icon: "fab fa-fw fa-gitlab"
+    #   # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: https://www.instagram.com/reversimplatforma/
@@ -288,7 +295,7 @@ compress_html:
 #     values:
 #       layout: single
 #       author_profile: true
-#       read_time: true
-#       comments: # true
-#       share: true
-#       related: true
+#       # read_time: true
+#       # comments: # true
+#       # share: true
+#       # related: true
