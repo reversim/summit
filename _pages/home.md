@@ -75,5 +75,3 @@ author_profile: true
 <!-- * [Photos]() -->
 
 <iframe width="300" height="200" src="https://www.youtube.com/embed/videoseries?list=PLp33GadmS4eWYy52JKAvuaiovQA9i_qzU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-ok
