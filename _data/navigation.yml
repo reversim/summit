@@ -1,0 +1,13 @@
+main:
+  - title: "<span class='fas fa-fw fa-headphones'>&nbsp;</span>Podcast"
+    url: "https://www.reversim.com"
+  - title: "<span class='fab fa-fw fa-twitter-square'>&nbsp;</span>Twitter"
+    url: "https://twitter.com/reversim"
+  - title: "<span class='fab fa-fw fa-facebook-square'>&nbsp;</span>Facebook"
+    url: "https://www.facebook.com/groups/reversim"
+  - title: "<span class='fas fa-fw fa-envelope-square'>&nbsp;</span>Join our Google Group"
+    url: https://groups.google.com/g/reversim-summit
+  - title: "<span class='fab fa-fw fa-instagram'>&nbsp;</span>Instagram"
+    url: https://www.instagram.com/reversimplatforma/
+  - title: "<span class='fas fa-fw fa-newspaper'>&nbsp;</span>Media"
+    url: /media

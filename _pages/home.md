@@ -1,11 +1,19 @@
 ---
-title: Reversim Summit 2022
+title: Reversim Summit
 permalink: /
-# layout: splash
+layout: splash
 classes: wide
 author_profile: true
 ---
-<!-- # Reversim Summit 2022 -->
+# About Reversim Summit
+Reversim Summit is a yearly software conferece, a community driven effort, taking place in Israel.
+We host every year thusands of interested software developers, product managers, data scientists and any other persona interested in the software industry.
+With an enthusiastic team of volunteers we've been creating a content-first software conferences since 2013.
+Reversim Summit (RS) is not for profit and its sole purpose is to enrich the community with content and networking.
+
+This website serves as an index for all years conferences where you may find video playlists, links to past summit websites and photos.
+
+# Reversim Summit 2022
 
 * [Website](https://summit2022.reversim.com/)
 * [Photos](https://photos.app.goo.gl/a9cSNdsVigteHzuj9)
