@@ -14,3 +14,12 @@ author_profile: true
 
 * [Twitter search for "reversim רברסים"](https://twitter.com/search?q=reversim%20%D7%A8%D7%91%D7%A8%D7%A1%D7%99%D7%9D)
 
+# Blogs
+
+* [Reversim Summit 2021 Summary](https://medium.com/@rantav/reversim-summit-2021-summary-1bbebc322208)
+* [RS19 Numbers and Stats](https://medium.com/@rantav/rs19-numbers-and-stats-6969b173acb6)
+* [Reversim Summit 2017: Numbers and Stats](https://medium.com/@rantav/reversim-summit-2017-numbers-and-stats-51cd2a791857)
+* [Reversim Summit Moderation Process](https://medium.com/@rantav/reversim-summit-moderation-process-8384b1c812e3)
+* [Reversim Summit 2016 by the Numbers](https://medium.com/@rantav/reversim-summit-2016-by-the-numbers-32046c36c9e)
+* [Reversim Summit 2016 Selection Process](https://medium.com/@rantav/reversim-summit-2016-selection-process-cc599c6b3ac9)
+
