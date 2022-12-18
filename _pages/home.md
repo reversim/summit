@@ -69,6 +69,7 @@ This website serves as an index for all years conferences where you may find vid
 
 * [Website](https://summit2016.reversim.com/)
 * [Photos](https://photos.google.com/share/AF1QipPORYX7nOWI1AsG8wE8SDrKCi3llj81FxRS1aXKfVrt1oauBI_KIZKWaAb79JoJ1w?key=OFJXdVJyZHUzckRjbUY3UXgyWmNSWHQ3R1lIR2F3)
+* [More »](/2016)
 
 <iframe width="300" height="200" src="https://www.youtube.com/embed/videoseries?list=PLqXy0aX6TzQrwbJ_4hG_C9oGQmUDdB2gh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
