@@ -34,7 +34,6 @@ This website serves as an index for all years conferences where you may find vid
 # Reversim Summit 2020
 
 * [Website](https://summit2020.reversim.com/)
-<!-- * [Photos]() -->
 * [More »](/2020)
 
 <iframe width="300" height="200" src="https://www.youtube.com/embed/videoseries?list=PLqXy0aX6TzQqdhzY9jqew2sb33hhDXAHf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -43,6 +42,7 @@ This website serves as an index for all years conferences where you may find vid
 
 * [Website](https://summit2019.reversim.com/)
 * [Photos](https://photos.google.com/share/AF1QipO5G3Uj4v52v1PL-IH9mpPxUnNI4URfFNeRWBk9lObfsDRKHDOEElJl_4hynDK8_g?key=NFdLc1JSNVEyZkZucThTQ0xRNkQxdU5EQUp6U193)
+* [More »](/2019)
 
 <iframe width="300" height="200" src="https://www.youtube.com/embed/videoseries?list=PLqXy0aX6TzQqzJWXJZOKxGuF4W8hJEa5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
