@@ -26,6 +26,7 @@ This website serves as an index for all years conferences where you may find vid
 
 * [Website](https://summit2021.reversim.com/)
 * [Photos](https://photos.app.goo.gl/k4Eq7Gj3XTWzxUnD9)
+* [More »](/2021)
 
 <iframe width="300" height="200" src="https://www.youtube.com/embed/videoseries?list=PLqXy0aX6TzQryGoAdbyPevKocQxMJzg8_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
@@ -34,6 +35,7 @@ This website serves as an index for all years conferences where you may find vid
 
 * [Website](https://summit2020.reversim.com/)
 <!-- * [Photos]() -->
+* [More »](/2020)
 
 <iframe width="300" height="200" src="https://www.youtube.com/embed/videoseries?list=PLqXy0aX6TzQqdhzY9jqew2sb33hhDXAHf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
