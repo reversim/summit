@@ -6,8 +6,8 @@ classes: wide
 author_profile: true
 ---
 # About Reversim Summit
-Reversim Summit is a yearly software conferece, a community driven effort, taking place in Israel.
-We host every year thusands of interested software developers, product managers, data scientists and any other persona interested in the software industry.
+Reversim Summit is a yearly software conference, a community driven effort, taking place in Israel.
+We host every year thousands of interested software developers, product managers, data scientists and any other persona interested in the software industry.
 With an enthusiastic team of volunteers we've been creating a content-first software conferences since 2013.
 Reversim Summit (RS) is not for profit and its sole purpose is to enrich the community with content and networking.
 
@@ -17,6 +17,7 @@ This website serves as an index for all years conferences where you may find vid
 
 * [Website](https://summit2022.reversim.com/)
 * [Photos](https://photos.app.goo.gl/a9cSNdsVigteHzuj9)
+* [More »](/2022)
 
 <iframe width="300" height="200" src="https://www.youtube.com/embed/videoseries?list=PLqXy0aX6TzQrVZn7A42IWfYstZRAv2rGq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
