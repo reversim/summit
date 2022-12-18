@@ -51,6 +51,7 @@ This website serves as an index for all years conferences where you may find vid
 
 * [Website](https://summit2018.reversim.com/)
 * [Photos](https://photos.google.com/share/AF1QipMAsx7WO0vILDUNB9p9jl69M8YDLHH0a82hX-9bf3fKwHlLcxoZWk183qQNc7O92A?key=V2NGTzBIMFRlU0dVci12RGlIX2Z1V3B0NHNuYWxR)
+* [More »](/2018)
 
 <iframe width="300" height="200" src="https://www.youtube.com/embed/videoseries?list=PLqXy0aX6TzQo7_HyHWeN0I0Cldr20g1A8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
