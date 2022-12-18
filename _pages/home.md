@@ -60,6 +60,7 @@ This website serves as an index for all years conferences where you may find vid
 
 * [Website](https://summit2017.reversim.com/)
 * [Photos](https://photos.google.com/share/AF1QipPw36ALcnbYQpJgnl6CA8_U1Ef34qDgtWg0P9s3iLW35bvePzIHcOwNMeq3TKFDJQ?key=Y1Z0MUVRSXhHN3o5bDhaNGZ3RDB6ZjZNT2ltYndB)
+* [More »](/2017)
 
 <iframe width="300" height="200" src="https://www.youtube.com/embed/videoseries?list=PLqXy0aX6TzQrRE_sAtkqBsJAdFQOGme8O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
