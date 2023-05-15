@@ -101,14 +101,14 @@ og_image                 : # Open Graph/Twitter default site image
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : Organization # Person or Organization (defaults to Person)
-  name                   : Reversim Platforma# If the user or organization name differs from the site's name
+  name                   : Reversim Platforma # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : google-gtag # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
+    tracking_id          : G-LLP5XELFQG
     anonymize_ip         : # true, false (default)
 
 
