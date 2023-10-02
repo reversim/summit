@@ -14,11 +14,7 @@ Reversim Summit (RS) is not for profit and its sole purpose is to enrich the com
 This website serves as an index for all years conferences where you may find video playlists, links to past summit websites and photos.
 
 # Reversim Summit 2024
-RS24 is in works and planned for early **March 2024**.
-A CFP has not yet been released so to keep in touch and follow our progress please either
-join our mailing list, our facebook group or follow us on twitter (see links at the top of this page)
-
-RS23 is not planned to take place, we're skipping that year.
+RS24 is in progress, see [the website](summit2024.reversim.com)
 
 # Reversim Summit 2022
 
