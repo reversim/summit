@@ -13,7 +13,7 @@ Reversim Summit (RS) is not for profit and its sole purpose is to enrich the com
 
 This website serves as an index for all years conferences where you may find video playlists, links to past summit websites and photos.
 
-# Reversim Summit 2024
+# [Reversim Summit 2024](https://summit2024.reversim.com)
 RS24 is in progress, see [the website](https://summit2024.reversim.com)
 
 # Reversim Summit 2023
