@@ -18,9 +18,8 @@ This website serves as an index for all years conferences where you may find vid
 * [Photos](https://photos.app.goo.gl/K4LkCSHW8c56qwYH6)
 * [More »](/2024)
 
-
-<!-- <iframe width="300" height="200" src="https://www.youtube.com/embed/videoseries?list=PLqXy0aX6TzQrVZn7A42IWfYstZRAv2rGq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/> -->
+<iframe width="300" height="200" src="https://www.youtube.com/embed/videoseries?list=PLqXy0aX6TzQqQ8tIs2Xm_OWLOFxgHTnM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
 
 # Reversim Summit 2022
 
