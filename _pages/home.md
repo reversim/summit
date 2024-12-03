@@ -13,6 +13,9 @@ Reversim Summit (RS) is not for profit and its sole purpose is to enrich the com
 
 This website serves as an index for all years conferences where you may find video playlists, links to past summit websites and photos.
 
+# Reversim Summit 2025
+RS25 is in planning and will take place Oct 2025. Stay tuned. 
+
 # [Reversim Summit 2024](https://rantav.editorx.io/rs24)
 * [Website](https://rantav.editorx.io/rs24)
 * [Photos](https://photos.app.goo.gl/K4LkCSHW8c56qwYH6)
