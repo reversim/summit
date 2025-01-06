@@ -15,6 +15,7 @@ This website serves as an index for all years conferences where you may find vid
 
 # Reversim Summit 2025
 RS25 is in planning and will take place Oct 2025. Stay tuned. 
+* [Website](https://summit2025.reversim.com/)
 
 # [Reversim Summit 2024](https://rantav.editorx.io/rs24)
 * [Website](https://rantav.editorx.io/rs24)
