@@ -27,7 +27,6 @@ RS25 is in planning and will take place Oct 2025. Stay tuned.
 
 # Reversim Summit 2022
 
-* [Website](https://summit2022.reversim.com/)
 * [Photos](https://photos.app.goo.gl/a9cSNdsVigteHzuj9)
 * [More »](/2022)
 
@@ -36,7 +35,6 @@ RS25 is in planning and will take place Oct 2025. Stay tuned.
 
 # Reversim Summit 2021
 
-* [Website](https://summit2021.reversim.com/)
 * [Photos](https://photos.app.goo.gl/k4Eq7Gj3XTWzxUnD9)
 * [More »](/2021)
 
