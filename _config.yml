@@ -132,9 +132,9 @@ author:
     - label: "Join our Google Group"
       icon: "fas fa-fw fa-envelope-square"
       url: https://groups.google.com/g/reversim-summit
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: https://www.instagram.com/reversimplatforma/
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: https://www.instagram.com/reversimplatforma/
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: https://www.linkedin.com/company/reversim-summit/
@@ -145,9 +145,6 @@ author:
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
     #   # url: "https://github.com/"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   # url: "https://instagram.com/"
 
 # Site Footer
 footer:
@@ -170,9 +167,9 @@ footer:
     # - label: "GitLab"
     #   icon: "fab fa-fw fa-gitlab"
     #   # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: https://www.instagram.com/reversimplatforma/
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: https://www.instagram.com/reversimplatforma/
 
 
 # Reading Files
