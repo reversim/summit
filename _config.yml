@@ -135,6 +135,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: https://www.instagram.com/reversimplatforma/
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/company/reversim-summit/
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
     #   url: "mailto:team@reversim.com"
@@ -158,6 +161,9 @@ footer:
     - label: "Google Group"
       icon: "fas fa-fw fa-envelope-square"
       url: https://groups.google.com/g/reversim-summit
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/company/reversim-summit/
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
     #   # url:
