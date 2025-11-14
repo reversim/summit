@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 # News
-
+* [TheMarker: אפליקציה? לפעמים בכלל לא צריך עוד אחת: מה למדנו מהצלת קיפודים חולים](https://www.themarker.com/captain-internet/2025-10-29/ty-article/0000019a-2f7c-d4aa-a9fa-2ffc4e270000)
 * [Tech 12: כנס רברסים הוא המידברן של ההייטקיסטים](https://www.tech12.co.il/index-startups/Article-6c7e8d352bc3481027.htm)
 
 # Twitter
@@ -23,3 +23,7 @@ author_profile: true
 * [Reversim Summit 2016 by the Numbers](https://medium.com/@rantav/reversim-summit-2016-by-the-numbers-32046c36c9e)
 * [Reversim Summit 2016 Selection Process](https://medium.com/@rantav/reversim-summit-2016-selection-process-cc599c6b3ac9)
 
+# LinkedIn
+
+* [Reversim Summit Page](https://www.linkedin.com/company/reversim-summit/)
+* [Reversim search results](https://www.linkedin.com/search/results/content/?keywords=reversim)
