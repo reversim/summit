@@ -7,7 +7,9 @@ main:
     url: "https://www.facebook.com/groups/reversim"
   - title: "<span class='fas fa-fw fa-envelope-square'>&nbsp;</span>Join our Google Group"
     url: https://groups.google.com/g/reversim-summit
-  - title: "<span class='fab fa-fw fa-instagram'>&nbsp;</span>Instagram"
-    url: https://www.instagram.com/reversimplatforma/
+  # - title: "<span class='fab fa-fw fa-instagram'>&nbsp;</span>Instagram"
+  #   url: https://www.instagram.com/reversimplatforma/
+  - title: "<span class='fab fa-fw fa-linkedin'>&nbsp;</span>LinkedIn"
+    url: https://www.linkedin.com/company/reversim-summit/
   - title: "<span class='fas fa-fw fa-newspaper'>&nbsp;</span>Media"
     url: /media
